@@ -1,0 +1,9 @@
+this is a file that contains commands that i've learned so far.
+grep = this is used to filter files and search for files 
+2.dmesg = this is used to investigate system level hardware and kernel issus
+3. diff = to find differences between to files
+4. chown = to change the ownership of the files and directories
+5. chmod =(change file mod bits) to modify files.
+6.newgrp = start a new terminal shell using developers as your active group.
+
+Think of it as refreshing your terminal's group context.
