@@ -7,3 +7,8 @@ grep = this is used to filter files and search for files
 6.newgrp = start a new terminal shell using developers as your active group.
 
 Think of it as refreshing your terminal's group context.
+to write scripting
+first create a file with .sh extension 
+write a code starts with 
+#!/bin/bash or #!/bin/zsh
+echo 'Hello,world'
