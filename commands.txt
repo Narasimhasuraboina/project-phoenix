@@ -12,3 +12,7 @@ first create a file with .sh extension
 write a code starts with 
 #!/bin/bash or #!/bin/zsh
 echo 'Hello,world'
+
+
+given the permission for that file called hello.sh to execute directly without using explicit bash command".
+
