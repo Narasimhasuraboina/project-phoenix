@@ -16,3 +16,10 @@ echo 'Hello,world'
 
 given the permission for that file called hello.sh to execute directly without using explicit bash command".
 
+20-08-26 
+learned some new things about how arithmetic operations work in bash
+
+
+"""""
+	Expression for arithematic operations 
+						$((expression))
