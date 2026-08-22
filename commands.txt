@@ -42,3 +42,18 @@ learned some new things about how arithmetic operations work in bash
 			
 			"$#" is equals to how many we entered in terminal..
 	these two are special variables in bash...
+
+
+------------ARRAYS IN BASH----------------
+     
+
+      -syntax 
+		- Number() -- it will crate an empty array.
+		
+		- ex:
+		     - #!/bin/bash
+			Numbers=()
+			#we have to insert data in it 
+			Numbers+=(10) #like this.
+			echo "the numbers are ${Number[@]}"
+
