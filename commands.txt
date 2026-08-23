@@ -57,3 +57,20 @@ learned some new things about how arithmetic operations work in bash
 			Numbers+=(10) #like this.
 			echo "the numbers are ${Number[@]}"
 
+
+
+
+----------basic arithmetic operations-----------
+
+         
+
+
+     you learned how to perform arithmetic operations using basic operators in Shell programming. You created a Bash script that calculates the total cost of a fruit basket by defining variables for individual costs and using arithmetic expressions to compute the total. You also learned how to make a script executable and run it from the command line.
+
+Key points to remember:
+
+Bash scripts start with a shebang line (#!/bin/bash).
+Variables in Bash are assigned without spaces around the = sign.
+Arithmetic operations in Bash are performed inside $(( )).
+The echo command is used to print output.
+Scripts need to be made executable with chmod +x before they can be run.
