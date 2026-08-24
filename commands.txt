@@ -74,3 +74,15 @@ Variables in Bash are assigned without spaces around the = sign.
 Arithmetic operations in Bash are performed inside $(( )).
 The echo command is used to print output.
 Scripts need to be made executable with chmod +x before they can be run.
+
+
+---------basic git operations-----------------
+
+
+git init 
+
+git add .
+ 
+git commit -m " "
+ 
+
