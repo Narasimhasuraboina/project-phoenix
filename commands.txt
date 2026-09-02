@@ -86,3 +86,9 @@ git add .
 git commit -m " "
  
 
+next to online git hub
+we use a command for that, that is 
+		
+	git push name branch-name 
+		
+		git push -u origin main
