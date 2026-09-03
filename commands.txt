@@ -92,3 +92,4 @@ we use a command for that, that is
 	git push name branch-name 
 		
 		git push -u origin main
+ -u is a flag it tells the commands run in a particular way.
