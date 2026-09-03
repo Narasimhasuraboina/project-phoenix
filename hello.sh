@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'Hello, world'
+echo "Hello , Narasimha!
+"
+echo "iam learning bash"
