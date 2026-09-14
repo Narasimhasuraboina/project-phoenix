@@ -1,0 +1,10 @@
+#!/bin/bash
+greeet(){
+    local name=$1
+    echo "$name"
+}
+for name in "$@"; do
+    greeet "$name"
+done
+new=$(greeet TonY) 
+echo "$new"

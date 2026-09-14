@@ -1,0 +1,7 @@
+#!/bin/bash
+read -p "Enter you name : " name
+greet(){
+    echo "$@"
+   
+}
+greet "$name"

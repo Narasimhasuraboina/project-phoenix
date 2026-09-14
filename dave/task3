@@ -1,0 +1,16 @@
+#!/bin/bash
+check(){
+    local num="$1"
+    if [[ $num -gt 0 ]]; then
+        echo "positive"
+        return 0
+    else
+           echo
+           echo "negative"
+           return 1
+           fi
+          
+}
+read -p "enter a number : " num
+check "$num"
+echo "status:$?"

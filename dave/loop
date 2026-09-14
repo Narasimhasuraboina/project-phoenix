@@ -1,0 +1,4 @@
+#!/bin/bash
+for thing in bin bat bozz bar; do
+	echo "thing is $thing"
+done

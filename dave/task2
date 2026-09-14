@@ -1,0 +1,8 @@
+#!/bin/bash
+# function
+add(){
+    echo "$(($1+$2))"
+}
+read -p "enter the first number : " one
+read -p "enter the second number : " two
+add "$one" "$two"
