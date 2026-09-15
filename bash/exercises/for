@@ -1,0 +1,9 @@
+#!/bin/bash
+fun(){
+    name=$@
+    for i in $name; do
+        echo "$i"
+        done
+
+}
+fun "NArasimha" "navadeep" "avinash"
