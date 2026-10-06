@@ -1,6 +1,6 @@
 # Project Phoenix
 
-A structured learning repository for Linux system commands, Bash scripting, C programming, and practical exercises.
+A structured learning repository for Linux system commands, Bash scripting, and practical exercises.
 
 ---
 
@@ -21,10 +21,6 @@ pro-phoenix/
 │   ├── greeter
 │   ├── loop
 │   └── task1 - task3
-│
-├── src/                       # Application and language source code
-│   ├── c/                     # C programming experiments (e.g., first.c)
-│   └── python/                # Python scripts and applications
 │
 ├── docs/                      # Documentation and specifications
 │   └── shared_docs/           # Team guidelines and API documentation
