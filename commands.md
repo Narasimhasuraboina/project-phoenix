@@ -146,3 +146,25 @@ git push -u origin main
 - `help command`
 - `tldr command`
 
+## `ps`
+- it is a command which is used to list the process runnnign now.
+
+Important: ps without options usually shows only processes associated with your current terminal, not every process on your Linux system.
+
+## `top` - monitors the process
+- Unlike ps, which gives you a snapshot, top refreshes the process information continuously.
+You can see:
+- CPU usage
+- Memory usage
+- Running processes
+- Process IDs
+- System load
+Useful keys while top is open:
+Key	Action
+q	Quit
+P	Sort by CPU usage
+M	Sort by memory usage
+k	Prompt to send a signal to a process
+Be careful with k: sending the wrong signal to the wrong process can interrupt important work.
+
+
