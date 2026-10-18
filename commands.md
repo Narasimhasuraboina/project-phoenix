@@ -140,3 +140,9 @@ git push -u origin main
 ```
 
 > The `-u` (or `--set-upstream`) flag links the local branch to the specified remote branch so future `git push` and `git pull` commands don't require specifying the remote and branch names every time.
+### to see the info about the command we can use some commands like
+- `man command`
+- `command --help`
+- `help command`
+- `tldr command`
+
